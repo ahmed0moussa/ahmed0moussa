@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **Anglar ,Spring boot**
+- 💬 Ask me about **Angular ,Spring boot**
 
 - 📫 How to reach me **ahmedmoussa.developer@gmail.com**
 
