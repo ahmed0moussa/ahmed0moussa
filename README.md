@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed MOUSSA</h1>
 <h3 align="center">A passionate full stack developer from Tunisia</h3>
-<img align="right" width="400" src="https://camo.githubusercontent.com/f3ceddc7af30abcee5dd3a9d0d2cf3c14e3c3579ccc36848762f0b3cb053e8fe/68747470733a2f2f6d656469612e74656e6f722e636f6d2f77686751774e6c56764e6b41414141692f7865726f2d636f64652e676966" alt="developer-gif" />
+<img align="right" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" alt="developer-gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed0moussa&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed0moussa" /> </p>
 
