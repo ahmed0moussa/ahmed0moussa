@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed MOUSSA</h1>
 <h3 align="center">A passionate full stack developer from Tunisia</h3>
-<img align="right" width="400" src="[https://camo.githubusercontent.com/89233231dc8ba3dc5af6b979e9e3985ee8b9b70622d2ce686fc46c4a6706ea20/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313237322f312a5a53566d57476363317765454e6230536861775778772e676966](https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif)" alt="developer-gif" />
+<img align="right" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" alt="developer-gif" />
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=ahmed0moussa&label=Profile%20views&color=0e75b6&style=flat](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47m0wcl98dchsnbkfynfvcsi3o7m89a4rl2xj41yol&ep=v1_gifs_search&rid=giphy.gif&ct=g)" alt="ahmed0moussa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed0moussa&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed0moussa" /> </p>
 
 - 🌱 I’m currently learning **MERN stack**
 
